@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/MyCoursesScreen.dart';
+import 'package:stude_mate/MyCoursesScreen.dart';
 
 class CoursesDetailsScreen extends StatefulWidget {
   const CoursesDetailsScreen({super.key});

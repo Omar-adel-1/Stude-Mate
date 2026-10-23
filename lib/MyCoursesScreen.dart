@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/CoursesDetailsScreen.dart';
-import 'package:flutter_application_1/homeScreen.dart';
+import 'package:stude_mate/CoursesDetailsScreen.dart';
+import 'package:stude_mate/homeScreen.dart';
 
 class CourseModel {
   final String category;

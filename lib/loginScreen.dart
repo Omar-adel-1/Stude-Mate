@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/homeScreen.dart';
-import 'package:flutter_application_1/signUpScreen.dart';
+import 'package:stude_mate/homeScreen.dart';
+import 'package:stude_mate/signUpScreen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

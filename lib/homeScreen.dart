@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/MyCoursesScreen.dart';
-import 'package:flutter_application_1/SettingsScreen.dart';
-import 'package:flutter_application_1/loginScreen.dart';
-import 'package:flutter_application_1/profileScreen.dart';
+import 'package:stude_mate/MyCoursesScreen.dart';
+import 'package:stude_mate/SettingsScreen.dart';
+import 'package:stude_mate/loginScreen.dart';
+import 'package:stude_mate/profileScreen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

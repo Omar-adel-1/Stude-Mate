@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/loginScreen.dart';
+import 'package:stude_mate/loginScreen.dart';
 
 class SettingsScreen extends StatefulWidget {
   const SettingsScreen({super.key});

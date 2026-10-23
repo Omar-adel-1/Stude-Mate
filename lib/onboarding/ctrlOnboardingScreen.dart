@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/loginScreen.dart';
-import 'package:flutter_application_1/onboarding/onboardingScreeen1.dart';
-import 'package:flutter_application_1/onboarding/onboardingScreen2.dart';
+import 'package:stude_mate/loginScreen.dart';
+import 'package:stude_mate/onboarding/onboardingScreeen1.dart';
+import 'package:stude_mate/onboarding/onboardingScreen2.dart';
 
 class OnBoardingScreen extends StatefulWidget {
   const OnBoardingScreen({super.key});
